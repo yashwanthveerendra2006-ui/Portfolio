@@ -844,6 +844,12 @@ button {
   gap: 24px;
 }
 
+.projects-grid > .project-card:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+  max-width: 600px;
+  justify-self: center;
+}
+
 .project-card {
   padding: 32px;
   position: relative;

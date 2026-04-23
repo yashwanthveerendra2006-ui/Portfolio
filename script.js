@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', () => {
   /* ── Typewriter Effect ── */
   const typewriterEl = document.getElementById('typewriter');
   const phrases = [
-    'Java Full Stack Developer',
+    'Full Stack Developer',
     'Web Application Builder',
     'Problem Solver',
     'Data Science Student',
